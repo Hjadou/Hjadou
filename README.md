@@ -11,6 +11,8 @@
 
 [<img align="left" alt="Connor | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Connor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
