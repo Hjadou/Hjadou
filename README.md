@@ -1,9 +1,9 @@
 ### Hi there, I'm Connor - aka [Hjadou] 👋
 
-## I'm a Developer, Golfer, Snowboarder, and Traveler!
+## I'm a 🖥🖱 Developer, 🏌️‍ Golfer, 🏂 Snowboarder, and ✈🌎 Traveler!
 
 - 🌱 I’m currently expanding my knowledge of object-oriented programming and Japanese
-- 👯 I’m looking to collaborate with other developers from different backgrounds
+- 🤝 I’m looking to collaborate with other developers from different backgrounds
 - 🥅 2021 Goals: Contribute more to projects and flesh out my github
 - ⚡ Fun fact: I won 2 national medals while rowing for Ohio State
 
