@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://ash-two.vercel.app//api/spotify-playing" alt="conhjelm Spotify Playing" width="350" />](https://open.spotify.com/user/conhjelm)
+[<img align="left" alt="Connor | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 ### Connect with me:
 
@@ -41,4 +41,5 @@
 
 [instagram]: https://instagram.com/thelastperstoff
 [linkedin]: https://linkedin.com/in/connor-hjelm
+[spotify]: https://open.spotify.com/user/conhjelm
 
