@@ -13,7 +13,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://novatorem-hjadou.vercel.app//api/spotify-playing" alt="conhjelm Spotify Playing" width="350" />](https://open.spotify.com/user/conhjelm)
+[<img src="https://https://novatorem-git-main-hjadou.vercel.app
+//api/spotify-playing" alt="conhjelm Spotify Playing" width="350" />](https://open.spotify.com/user/conhjelm)
 
 ### Connect with me:
 
