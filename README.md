@@ -1,4 +1,4 @@
-### Hi there, I'm Connor - aka [Hjadou] 👋
+### Hi there, I'm Connor - aka [Hjoin] 👋
 
 ## I'm a 🖥🖱 Developer, 🏌️‍ Golfer, 🏂 Snowboarder, and ✈🌎 Traveler!
 
