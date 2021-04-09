@@ -2,10 +2,12 @@
 
 ## I'm a 🖥🖱 Developer, 🏌️‍ Golfer, 🏂 Snowboarder, and ✈🌎 Traveler!
 
-- 🌱 I’m currently expanding my knowledge of object-oriented programming and Japanese
-- 🤝 I’m looking to collaborate with other developers from different backgrounds
-- 🥅 2021 Goals: Contribute more to projects and flesh out my github
-- ⚡ Fun fact: I won 2 national medals while rowing for Ohio State
+- 🌱 I’m currently expanding my knowledge of object-oriented programming and seeking assistance in being able to tackle large-scale projects.
+- 🤝 I’m looking to collaborate with other developers from all backgrounds.
+- 🥅 2021 Goals: Develop more projects, expand my knowledge of Ruby, and make more connections within the IT industry.
+- 🎼 Instruments: Grew up playing string bass (1st chair in my orchestra), guitar, and piano.
+- 💠 Languages: English (Fluent), Spanish (Studied for 14 years - including 2 years of university), Japanese.
+- ⚡ Fun fact: I won 2 national medals while rowing for Ohio State.
 
 ### Spotify Playing 🎧
 
